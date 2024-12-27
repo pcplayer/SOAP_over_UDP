@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2018/11/29 00:03:56.000.010,=C:\Users\James\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/12/17 18:36:45.000.343,=C:\Users\James\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/02/15 21:46:40.000.961,=C:\Users\James\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/02/16 23:30:40.000.453,=C:\Users\James\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/03/18 11:36:56.000.257,=C:\Users\James\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/04/14 10:42:09.000.659,=C:\Users\James\Documents\Embarcadero\Studio\Projects\WebModuleUnit1.pas</Transaction>
+    <Transaction>2019/04/15 04:26:52.000.484,=C:\Users\James\Documents\Embarcadero\Studio\Projects\WebModuleUnit1.pas</Transaction>
+    <Transaction>2019/04/15 04:26:53.000.529,=C:\Users\James\Documents\Embarcadero\Studio\Projects\ServerConst1.pas</Transaction>
+    <Transaction>2019/04/16 23:27:05.000.201,=C:\Users\James\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2019/05/21 12:07:50.000.700,=C:\Users\James\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/09/03 17:18:33.000.342,=C:\Users\James\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/09/19 11:21:16.000.162,=C:\Users\James\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/09/19 12:20:13.000.433,=C:\Users\James\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/10/09 20:25:46.000.456,=C:\Users\James\Documents\Embarcadero\Studio\Projects\FormUnit1.pas</Transaction>
+    <Transaction>2021/10/09 20:25:48.000.595,=C:\Users\James\Documents\Embarcadero\Studio\Projects\WebModuleUnit1.pas</Transaction>
+    <Transaction>2022/01/13 16:56:40.000.164,=C:\Users\James\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/02/14 16:16:25.000.398,=C:\Users\James\Documents\Embarcadero\Studio\Projects\FormUnit1.pas</Transaction>
+    <Transaction>2022/02/14 16:16:25.000.851,=C:\Users\James\Documents\Embarcadero\Studio\Projects\WebModuleUnit1.pas</Transaction>
+    <Transaction>2022/02/22 18:13:34.000.854,=C:\Users\James\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/04/22 17:55:52.000.887,=C:\Users\James\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/04/23 00:22:22.000.182,=C:\Users\James\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/04/23 00:24:51.000.072,=C:\Users\James\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/05/01 11:55:27.000.916,=C:\Users\James\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/05/13 22:16:56.000.721,=C:\Users\James\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/05/19 04:19:46.000.246,=C:\Users\James\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2022/05/19 04:20:30.000.718,D:\Pro\Netel2020\SoapOverUDP\Test_3\Server\Unit2.dfm=C:\Users\James\Documents\Embarcadero\Studio\Projects\Unit2.dfm</Transaction>
+    <Transaction>2022/05/19 04:20:30.000.718,D:\Pro\Netel2020\SoapOverUDP\Test_3\Server\Unit2.pas=C:\Users\James\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2022/05/19 04:20:42.000.101,D:\Pro\Netel2020\SoapOverUDP\Test_3\Server\SoapOverUDPServerTest.dproj=C:\Users\James\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2022/05/19 04:21:21.000.429,=D:\Pro\Netel2020\SoapOverUDP\Soap.SOAPLinked.pas</Transaction>
+    <Transaction>2022/05/19 04:21:21.000.409,=D:\Pro\Netel2020\SoapOverUDP\Netel.Soap.NLRIO.pas</Transaction>
+    <Transaction>2022/05/19 04:27:58.000.556,=D:\Pro\Netel2020\SoapOverUDP\Test_3\MyTestImpl.pas</Transaction>
+    <Transaction>2022/05/19 04:27:58.000.570,=D:\Pro\Netel2020\SoapOverUDP\Test_3\MyTestIntf.pas</Transaction>
+    <Transaction>2022/05/19 23:54:02.000.422,=D:\Pro\Netel2020\SoapOverUDP\Test_3\Server\Unit3.pas</Transaction>
+    <Transaction>2022/05/19 23:54:31.000.253,D:\Pro\Netel2020\SoapOverUDP\Test_3\Server\Unit3.pas=D:\Pro\Netel2020\SoapOverUDP\Netel.Soap.SoapLinked.pas</Transaction>
+    <Transaction>2022/05/20 00:25:11.000.200,D:\Pro\Netel2020\SoapOverUDP\Netel.Soap.SoapLinked.pas=</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<PMYMAC iOSSimulator="iPhone5"/>
+	</ActiveMobileDevice>
+</BorlandProject>

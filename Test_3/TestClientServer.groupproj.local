@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/05/19 04:19:35.000.373,D:\Pro\Netel2020\SoapOverUDP\Test_3\TestClientServer.groupproj=C:\Users\James\Documents\Embarcadero\Studio\Projects\ProjectGroup1.groupproj</Transaction>
+  </Transactions>
+	<Default.Personality>
+		<Projects ActiveProject="D:\Pro\Netel2020\SoapOverUDP_github\Test_3\Client\SoapOverUDPTestClient.dproj"/>
+	</Default.Personality>
+</BorlandProject>

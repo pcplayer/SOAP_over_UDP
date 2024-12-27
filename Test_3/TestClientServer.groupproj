@@ -1,0 +1,48 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <PropertyGroup>
+        <ProjectGuid>{2D7EACED-62C4-4A61-A80E-3593B8F89C72}</ProjectGuid>
+    </PropertyGroup>
+    <ItemGroup>
+        <Projects Include="Client\SoapOverUDPTestClient.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="Server\SoapOverUDPServerTest.dproj">
+            <Dependencies/>
+        </Projects>
+    </ItemGroup>
+    <ProjectExtensions>
+        <Borland.Personality>Default.Personality.12</Borland.Personality>
+        <Borland.ProjectType/>
+        <BorlandProject>
+            <Default.Personality/>
+        </BorlandProject>
+    </ProjectExtensions>
+    <Target Name="SoapOverUDPTestClient">
+        <MSBuild Projects="Client\SoapOverUDPTestClient.dproj"/>
+    </Target>
+    <Target Name="SoapOverUDPTestClient:Clean">
+        <MSBuild Projects="Client\SoapOverUDPTestClient.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="SoapOverUDPTestClient:Make">
+        <MSBuild Projects="Client\SoapOverUDPTestClient.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="SoapOverUDPServerTest">
+        <MSBuild Projects="Server\SoapOverUDPServerTest.dproj"/>
+    </Target>
+    <Target Name="SoapOverUDPServerTest:Clean">
+        <MSBuild Projects="Server\SoapOverUDPServerTest.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="SoapOverUDPServerTest:Make">
+        <MSBuild Projects="Server\SoapOverUDPServerTest.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="Build">
+        <CallTarget Targets="SoapOverUDPTestClient;SoapOverUDPServerTest"/>
+    </Target>
+    <Target Name="Clean">
+        <CallTarget Targets="SoapOverUDPTestClient:Clean;SoapOverUDPServerTest:Clean"/>
+    </Target>
+    <Target Name="Make">
+        <CallTarget Targets="SoapOverUDPTestClient:Make;SoapOverUDPServerTest:Make"/>
+    </Target>
+    <Import Project="$(BDS)\Bin\CodeGear.Group.Targets" Condition="Exists('$(BDS)\Bin\CodeGear.Group.Targets')"/>
+</Project>
