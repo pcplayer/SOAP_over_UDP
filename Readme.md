@@ -381,3 +381,6 @@ end;
 
 FRioClient.WriteSOAPResponse(AResponse);
 ```
+
+## 最新测试过的 Delphi 版本
+Delphi 11 CE Version.
